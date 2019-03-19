@@ -11,7 +11,7 @@ _Laravel AJAX CRUD Modal_ demo provides basic CRUD web application without page 
 ```
 2. Change into the working directory
 ```
-  cd Laravel-AJAX-CRUD-Modal
+  cd ajax-crud
 ```
 3. Open Project in a Code Editor, rename `.env.example` to `.env` and modify DB name, username, password to your environment.
 
