@@ -1,4 +1,3 @@
-# ajax-crud
 Laravel 5.8 CRUD using Ajax and Bootstrap
 ======================
 
