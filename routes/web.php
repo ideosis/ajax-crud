@@ -11,9 +11,4 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 Route::resource('/ajax-crud', 'AjaxController');
-Route::resource('/students', 'StudentsController');
