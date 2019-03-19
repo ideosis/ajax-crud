@@ -43,4 +43,4 @@ _Laravel AJAX CRUD Modal_ demo provides basic CRUD web application without page 
 ## License
 This project is open-source and licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
-Made with &#10084; in Laravel
+Made with &#10084; by Ideosis
