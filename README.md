@@ -33,7 +33,7 @@ _Laravel AJAX CRUD Modal_ demo provides basic CRUD web application without page 
 ```
 8. Proceed to
 ```
-  http://localhost:8000/product
+  http://localhost:8000/ajax-crud
 ```
 
 ## Screenshots
